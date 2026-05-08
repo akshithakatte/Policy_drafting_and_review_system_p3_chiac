@@ -1,8 +1,4 @@
 """
-agents/policy_drafter.py
-Writer Agent — Varsha's contribution to the Policy Drafting & Review System
-Chiac ASI Internship | Project 3
-
 Responsibilities of this agent:
 - Receive a policy topic + optional requirements
 - Generate a well-structured, professional first-draft policy document
